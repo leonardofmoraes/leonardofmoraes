@@ -16,9 +16,11 @@ Skills:
 
 Education:
 
--Bachelor's degree in Computer Engineering - Universidade Anhembi Morumbi (UAM)
+- Bachelor's degree in Computer Engineering - Universidade Anhembi Morumbi (UAM)
 
-    Projects with C, Java and Python languages
+Developed small projects with C, Python and Java languages.
+
+I currently sell software modeling, requirements gathering and SQL.
 
 Connect with me:
 
