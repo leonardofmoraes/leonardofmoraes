@@ -1,23 +1,23 @@
-Olá! 👋
+Hello! 👋
 
-Sou um entusiasta de tecnologia e estudante de Engenharia da Computação pela Universidade Anhembi Morumbi (UAM). Atualmente, busco expandir meus conhecimentos em desenvolvimento e aprimorar minhas habilidades em projetos desafiadores.
+I'm a tech enthusiast and Computer Engineering student at Universidade Anhembi Morumbi (UAM). Currently, I'm seeking to expand my development knowledge and sharpen my skills through challenging projects.
 
-Experiência profissional:
+Professional Experience:
 
-Suporte e Infraestrutura (4+ anos): Adquiri sólida experiência em resolução de problemas técnicos, configuração de sistemas e suporte a usuários.
+Support and Infrastructure (4+ years): I have gained solid experience in troubleshooting technical issues, configuring systems, and providing user support.
 
-Habilidades:
+Skills:
 
-Cloud: Microsoft Azure (certificado)
+Cloud: Microsoft Azure (certified)
 
-Linguagens: HTML, CSS, JavaScript
+Languages: HTML, CSS, JavaScript
 
-Educação:
+Education:
 
-Graduação em Engenharia da Computação - Universidade Anhembi Morumbi (UAM)
+Bachelor's degree in Computer Engineering - Universidade Anhembi Morumbi (UAM)
 
-Conecte-se comigo:
+Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardofmoraes/)
+![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+Feel free to explore my repositories and get in touch!
