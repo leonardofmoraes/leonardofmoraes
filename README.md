@@ -8,15 +8,17 @@ Support and Infrastructure (4+ years): I have gained solid experience in trouble
 
 Skills:
 
-Cloud: Microsoft Azure (certified)
+- Cloud: Microsoft Azure (certified)
 
-Languages: HTML, CSS and JavaScript
+- Languages: HTML, CSS and JavaScript
 
-Learning: Java with Spring Boot and JavaScript with Angular
+- Learning: Java with Spring Boot and JavaScript with Angular
 
 Education:
 
-Bachelor's degree in Computer Engineering - Universidade Anhembi Morumbi (UAM)
+-Bachelor's degree in Computer Engineering - Universidade Anhembi Morumbi (UAM)
+
+    Projects with C, Java and Python languages
 
 Connect with me:
 
