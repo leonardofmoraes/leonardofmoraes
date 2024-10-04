@@ -38,26 +38,38 @@
 ---
 </div>
 
-<head>
-  <style>
-    body {
-      background-color: #121212; /* Fundo escuro */
-      color: #ffffff; /* Texto branco */
-      font-family: Arial, sans-serif;
-    }
-    
-    h1, h3 {
-      color: #00c8ff; /* Cor de destaque para títulos */
-    }
+<div align="center">
+  <img src="https://github.com/seu-usuario/seu-usuario/blob/main/seu-logo.png" alt="Seu Logo" width="200" height="200"> <br/> 
 
-    a {
-      color: #00c8ff; /* Cor dos links */
-      text-decoration: none; /* Removendo sublinhado dos links */
-    }
+  <h1 align="center">Seu Nome Completo</h1>
+  <h3 align="center">Sua Profissão ou Título</h3>
+  <p align="center">Uma breve descrição sobre você e seus objetivos.</p>
 
-    a:hover {
-      text-decoration: underline; /* Sublinhando ao passar o mouse */
-    }
-  </style>
-</head>
-<!-- Resto do seu conteúdo README.md -->
+  <!-- Links e botões aqui -->
+
+</div>
+
+<style>
+  body {
+    background-color: #121212; 
+    color: #ffffff; 
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h3 {
+    color: #00c8ff; 
+  }
+
+  a {
+    color: #00c8ff; 
+    text-decoration: none; 
+  }
+
+  a:hover {
+    text-decoration: underline; 
+  }
+</style>
+
+## ⚡ Habilidades
+
+<!-- ... (resto do seu conteúdo README) -->
