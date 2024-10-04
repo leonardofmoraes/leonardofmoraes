@@ -10,7 +10,9 @@ Skills:
 
 Cloud: Microsoft Azure (certified)
 
-Languages: HTML, CSS, JavaScript
+Languages: HTML, CSS and JavaScript
+
+Learning: Java with Spring Boot and JavaScript with Angular
 
 Education:
 
