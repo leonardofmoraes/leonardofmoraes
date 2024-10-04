@@ -1,4 +1,4 @@
-Hello! 👋
+Hello! 
 
 I'm a tech enthusiast and Computer Engineering student at Universidade Anhembi Morumbi (UAM). Currently, I'm seeking to expand my development knowledge and sharpen my skills through challenging projects.
 
