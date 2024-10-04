@@ -1,4 +1,5 @@
 Olá! 👋
+
 Sou um entusiasta de tecnologia e estudante de Engenharia da Computação pela Universidade Anhembi Morumbi (UAM). Atualmente, busco expandir meus conhecimentos em desenvolvimento e aprimorar minhas habilidades em projetos desafiadores.
 
 Experiência profissional:
