@@ -1,10 +1,7 @@
 <!-- README.md -->
-# Bem-vindo ao Meu Perfil no GitHub
+# Olá, sou o Leonardo F. Moraes. Seja bem-vindo ao meu perfil do GitHub!
 
 ![Bem-vindo](https://img.shields.io/badge/Bem%20vindo-GitHub-000000?style=flat&logo=github)
-
-## Sobre Mim
-Olá! Eu sou o Leonardo F. Moraes, um entusiasta de tecnologia e apaixonado por criar soluções inovadoras.
 
 ## Conecte-se Comigo
 
