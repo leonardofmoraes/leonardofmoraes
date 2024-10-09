@@ -18,7 +18,7 @@ Seja bem-vindo(a) ao meu perfil do GiHub!
   <a href="https://www.linkedin.com/in/leonardofmoraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Meus commits
+##
 
 <div>
   <a href="https://github.com/leonardofmoraes">
