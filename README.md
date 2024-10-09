@@ -27,5 +27,3 @@ Seja bem-vindo(a) ao meu perfil do GiHub!
   </a>
 </div>
 
- ![Snake animation](https://github.com/leonardofmoraes/leonardofmoraes/blob/output/github-contribution-grid-snake.svg)  
-
