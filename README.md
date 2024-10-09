@@ -18,3 +18,12 @@ Seja bem-vindo(a) ao meu perfil do GiHub!
   <a href="https://www.linkedin.com/in/leonardofmoraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## My repositories content
+
+<div>
+  <a href="https://github.com/leonardofmoraes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfelipe&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfelipe&show_icons=true&theme=radical" />
+  </a>
+</div>
+
