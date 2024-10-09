@@ -22,8 +22,8 @@ Seja bem-vindo(a) ao meu perfil do GiHub!
 
 <div>
   <a href="https://github.com/leonardofmoraes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfelipe&layout=compact&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfelipe&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofmoraes&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardofmoraes&show_icons=true&theme=radical" />
   </a>
 </div>
 
