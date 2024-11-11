@@ -1,4 +1,4 @@
-## Olá, sou o Leonardo F. Moraes.
+## Olá, sou o Leonardo Moraes.
 
 Seja bem-vindo(a) ao meu perfil do GiHub!
 
