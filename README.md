@@ -7,7 +7,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Engenheiro da Computação com experiência em Suporte e Infraestrutura
-- ☁️ Estudando para a certificação **AZ-104**
+- ☁️ Estudando para certificações em **Cloud Computing**
 - 🛠️ Conhecimentos em Azure, AWS, OCI, GCP, Docker, Terraform, Linux, Git, Python
 - 📚 Foco em Cloud, Automação e Segurança
 
