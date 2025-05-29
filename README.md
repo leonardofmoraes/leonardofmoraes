@@ -1,49 +1,33 @@
-<h1 align="center">Olá, eu sou o Leonardo Moraes 👋</h1>
+# Olá, eu sou o Leonardo Moraes 👋
 
-<p align="center">💻 Profissional de Infraestrutura, entusiasta de Cloud e DevOps</p>
+## Sobre mim
+Engenheiro da Computação com experiência em Suporte e Infraestrutura.  
+Entusiasta de Cloud Computing e DevOps, focado em automação, segurança e infraestrutura em nuvem.  
+Atualmente estudando para certificações AWS, Azure e outras tecnologias Cloud.
 
----
+## Tecnologias e Ferramentas
+💻 Linux | ☁️ AWS | ☁️ Azure | ☁️ OCI | ☁️ GCP | 🐳 Docker | 🔧 Terraform | 🐍 Python | 🔄 Git
 
-### 🚀 Sobre mim
+## Projetos em Destaque
 
-- 🎓 Engenheiro da Computação com experiência em Suporte e Infraestrutura
-- ☁️ Estudando para certificações em **Cloud Computing**
-- 🛠️ Conhecimentos em Azure, AWS, OCI, GCP, Docker, Terraform, Linux, Git, Python
-- 📚 Foco em Cloud, Automação e Segurança
+### [infra-terraform-azure-basic](https://github.com/leonardofmoraes/infra-terraform-azure-basic)  
+Provisionamento automatizado de VM Linux na Azure via Terraform.
 
----
+### [glpi-docker-setup](https://github.com/leonardofmoraes/glpi-docker-setup)  
+Implantação do GLPI usando Docker e banco de dados MySQL.
 
-### 🧰 Tecnologias e Ferramentas
+### [auto-backup-python](https://github.com/leonardofmoraes/auto-backup-python)  
+Script Python para automação de backups.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</div>
+### [devops-cicd-nginx](https://github.com/leonardofmoraes/devops-cicd-nginx)  
+Pipeline CI/CD para aplicação NGINX com integração contínua.
 
----
+### [clima-api](https://github.com/leonardofmoraes/clima-api)  
+API Python para consulta de dados meteorológicos.
 
-### 📂 Projetos em Destaque
-
-- [infra-terraform-azure-basic](https://github.com/leonardofmoraes/infra-terraform-azure-basic) — Provisionamento de VM Linux na Azure via Terraform  
-- [glpi-docker-setup](https://github.com/leonardofmoraes/glpi-docker-setup) — Implantação do GLPI com Docker e MySQL
+## Contato
+[LinkedIn](https://linkedin.com/in/leonardofmoraes) | [GitHub](https://github.com/leonardofmoraes)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardofmoraes&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofmoraes&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 📫 Contato
-
-- LinkedIn: [linkedin.com/in/leonardofmoraes](https://linkedin.com/in/leonardofmoraes)
-- GitHub: [github.com/leonardofmoraes](https://github.com/leonardofmoraes)
+*Obrigado por visitar meu perfil! 🚀*
