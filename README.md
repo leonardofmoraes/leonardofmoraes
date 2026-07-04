@@ -71,5 +71,5 @@ Se quiser trocar ideias sobre arquiteturas de nuvem, automação, cultura DevOps
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=leonardofmoraes&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Leonardo GitHub Stats" />
+  <img src="https://metrics.lecoq.io/leonardofmoraes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=America%2FSao_Paulo" alt="Leonardo GitHub Stats" />
 </p>
