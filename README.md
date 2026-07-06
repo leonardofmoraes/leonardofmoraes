@@ -51,7 +51,8 @@ Sou Engenheiro DevOps e especialista em Cloud, focado em desenhar, automatizar e
 
 ### 📂 Projetos em Destaque
 
-*   **[project-togglemaster-iac](./project-togglemaster-iac):** Infraestrutura como Código automatizada utilizando Terraform (HCL) para provisionamento de recursos resilientes e escaláveis em nuvem.
+* **[togglemaster-fiap](./):** Arquitetura de microsserviços resiliente e escalável (Auth, Flag e Targeting Services) integrada via Docker Compose, com verificação automatizada de integridade (Health Check).
+* **[togglemaster-infra](./togglemaster-infra):** Infraestrutura como Código (IaC) automatizada utilizando Terraform para provisionamento de recursos em nuvem.
 
 ---
 
