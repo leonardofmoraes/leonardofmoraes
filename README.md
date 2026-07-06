@@ -49,10 +49,10 @@ Sou Engenheiro DevOps e especialista em Cloud, focado em desenhar, automatizar e
 
 ---
 
-### 📂 Projetos em Destaque
+### 📁 Projetos em Destaque
 
-* **[togglemaster-fiap](./):** Arquitetura de microsserviços resiliente e escalável (Auth, Flag e Targeting Services) integrada via Docker Compose, com verificação automatizada de integridade (Health Check).
-* **[togglemaster-infra](./togglemaster-infra):** Infraestrutura como Código (IaC) automatizada utilizando Terraform para provisionamento de recursos em nuvem.
+* **[togglemaster-fiap](https://github.com/leonardofmoraes/togglemaster-fiap):** Arquitetura de microsserviços resiliente e escalável (Auth, Flag e Targeting Services) integrada via Docker Compose, com verificação automatizada de integridade (Health Check).
+* **[togglemaster-infra](https://github.com/leonardofmoraes/togglemaster-infra):** Infraestrutura como Código (IaC) automatizada utilizando Terraform para provisionamento de recursos em nuvem.
 
 ---
 
