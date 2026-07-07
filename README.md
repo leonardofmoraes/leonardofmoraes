@@ -51,8 +51,9 @@ Sou Engenheiro DevOps e especialista em Cloud, focado em desenhar, automatizar e
 
 ### 📁 Projetos em Destaque
 
-* **[togglemaster-app](https://github.com/leonardofmoraes/togglemaster-app):** Arquitetura de microsserviços resiliente e escalável composta por 5 serviços (Analytics, Auth, Evaluation, Flag e Targeting) integrados via Docker Compose, com verificação automatizada de integridade (Health Check).
-* **[togglemaster-infra](https://github.com/leonardofmoraes/togglemaster-infra):** Infraestrutura como Código (IaC) automatizada utilizando Terraform para provisionamento de recursos em nuvem.
+- [togglemaster-local-dev](https://github.com/leonardofmoraes/togglemaster-local-dev.git): Ambiente de desenvolvimento local com Docker Compose orquestrando os 5 microsserviços do ToggleMaster (Auth, Flag, Targeting, Evaluation, Analytics), com healthchecks automatizados.
+- [togglemaster-infra]([link](https://github.com/leonardofmoraes/togglemaster-infra.git)): Infraestrutura como Código (IaC) com Terraform, provisionando VPC, EKS, RDS, ElastiCache, DynamoDB, SQS e ECR na AWS.
+- [togglemaster-gitops](https://github.com/leonardofmoraes/togglemaster-gitops.git): Manifests Kubernetes e configuração de GitOps via ArgoCD para deploy contínuo dos microsserviços.
 
 ---
 
