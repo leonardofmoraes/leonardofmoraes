@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Location-Brazil-009739?style=for-the-badge&logoColor=white" alt="Brazil">
 </p>
 
-Sou Engenheiro DevOps e especialista em Cloud, focado em desenhar, automatizar e escalar infraestruturas resilientes, seguras e eficientes. Tenho experiência prática implementando esteiras de CI/CD, arquiteturas baseadas em microsserviços e soluções completas de Infraestrutura como Código (IaC).
+Sou Engenheiro da Computação e Especialista em Cloud e DevOps
 
 ---
 
