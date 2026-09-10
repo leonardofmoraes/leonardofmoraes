@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Location-Brazil-009739?style=for-the-badge&logoColor=white" alt="Brazil">
 </p>
 
-Sou Engenheiro da Computação e Especialista em Cloud e DevOps
+Engenheiro da Computação e Especialista em DevOps & Arquitetura Cloud.
 
 ---
 
