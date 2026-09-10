@@ -71,8 +71,3 @@ Se quiser trocar ideias sobre arquiteturas de nuvem, automação, cultura DevOps
 </p>
 
 <br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardofmoraes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofmoraes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
